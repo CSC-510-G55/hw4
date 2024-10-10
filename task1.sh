@@ -1,3 +1,5 @@
+#!/bin/bash
+
 processid=$(pgrep -f infinite.sh)
 
 # Check if the processid was found
